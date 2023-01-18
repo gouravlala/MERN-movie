@@ -1,4 +1,9 @@
-
+/node_modules
+.env.MONGODB_URL
+.env.PORT
+.env.TOKEN_SECRET_KEY
+.env.TMDB_BASE_URL
+.env.TMDB_KEY
 # Logs
 logs
 *.log
