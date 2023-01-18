@@ -5,7 +5,7 @@ const Logo = () => {
 
   return (
     <Typography fontWeight="700" fontSize="1.7rem">
-      GOURAV<span style={{ color: theme.palette.primary.main }}>LALA</span>
+      G<span style={{ color: theme.palette.primary.main }}>O</span>U<span style={{ color: theme.palette.primary.main }}>R</span>A<span style={{ color: theme.palette.primary.main }}>V</span>
     </Typography>
   );
 };
